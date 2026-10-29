@@ -20,12 +20,12 @@ const config: Config = {
   url: "https://bradhezh.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/dotnet-note/",
+  baseUrl: "/dotnet/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "bradhezh", // Usually your GitHub org/user name.
-  projectName: "dotnet-note", // Usually your repo name.
+  projectName: "dotnet", // Usually your repo name.
 
   onBrokenLinks: "throw",
 
@@ -98,7 +98,7 @@ const config: Config = {
         { to: "/blog", label: "Blog", position: "left" },
         */
         {
-          href: "https://github.com/bradhezh/dotnet-note",
+          href: "https://github.com/bradhezh/dotnet",
           label: "GitHub",
           position: "right",
         },
